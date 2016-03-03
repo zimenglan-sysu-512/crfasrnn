@@ -1,5 +1,5 @@
 # CRF-RNN for Semantic Image Segmentation
-![sample](sample.png)
+![demo](demo.png)
 
 <b>Live demo:</b> [http://crfasrnn.torr.vision](http://crfasrnn.torr.vision)
 
